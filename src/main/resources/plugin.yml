@@ -1,0 +1,7 @@
+name: UN_Works
+version: '${project.version}'
+main: unmineraft.un_works.UN_Works
+api-version: 1.18
+authors: [ ColchasGOD ]
+description: Administration of roles and payments for the UNMinecraft server
+website: https://github.com/UN-Minecraft/UN_Trabajos
